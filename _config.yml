@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "이것저것하는 IT人"
+  name             : "Haena"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "어쩌다보니 이것저것하는 데이터분석가."
+  bio              : "어쩌다보니 이런거저런거하는 데이터분석가."
   location         : "South Korea"
   email            :
   links:
