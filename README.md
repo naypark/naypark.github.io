@@ -1,2 +1,2 @@
-# haena.github.io
-Hiiii I am Haena.
+# naypark.github.io
+Hiiii I am Naypark.
