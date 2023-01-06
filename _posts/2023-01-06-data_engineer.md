@@ -7,7 +7,9 @@
 ![image](https://user-images.githubusercontent.com/81350993/210910085-14644b84-0bbb-4821-995f-777b68738d3c.png)
 
 1) Python으로 웹 스크래퍼 만들기
+
 https://nomadcoders.co/python-for-beginners?utm_medium=website&utm_source=webpage&utm_campaign=roadmap
+
 대상 : beginner을 위한 강의이며 완전 초심자도 가능
 AI, 백앤드, 분석 등 python 언어는 필수!! 
 
