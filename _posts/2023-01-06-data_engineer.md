@@ -15,7 +15,7 @@ AI, 백앤드, 분석 등 python 언어는 필수!!
 
 
 
-
+2.
 
 할 만한 Toy Project Searching을 위해서 gptChat에 물어보기.
 
